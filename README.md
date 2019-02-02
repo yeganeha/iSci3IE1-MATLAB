@@ -4,3 +4,4 @@
 This is where iSci 3IE1 C01 content will be
 
 ### Buddy is programming good
+https://github.com/3IE1/SciComp-2019
